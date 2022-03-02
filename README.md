@@ -4,5 +4,6 @@
 
 - 📘 专注JavaScript & Node.js
 - 🎨 css描边大师
-- 🐏 vue lover 
+- 🐏 vue/vite lover
+- 🍀 jsx user
 - 🎮 LoL 万年黄金
