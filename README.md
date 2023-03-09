@@ -7,3 +7,4 @@
 - 🐏 vue/vite lover
 - 🍀 jsx user
 - 🎮 LoL 万年黄金
+- 🤟 wechat 18624443327
